@@ -2,12 +2,12 @@
     height: 963px;
 }
 
-.slider__menu {
+.slider_menu {
     height: auto !important;
     bottom: 33px;
 }
 
-.slider__menu-item {
+.slider_menu_item {
     height: inherit;
     width: calc(100% / 2 - 20px / 2);
     background: #FFFFFF;
@@ -21,7 +21,7 @@
     justify-content: flex-end;
 }
 
-.slider__menu-text {
+.slider_menu_text {
     margin-top: 0;
     font-size: 14px;
     font-weight: 500;
@@ -29,18 +29,18 @@
     width: 100%;
 }
 
-.slider__menu-ico {
+.slider_menu_ico {
     margin-top: -5px;
     margin-left: 0;
 }
 
-.title-h2 {
+.title_h2 {
     font-size: 24px;
     font-weight: 600;
     line-height: 130%;
 }
 
-.title-h2_from-slider {
+.title-h2_from_slider {
     margin-top: 40px;
 }
 
@@ -53,38 +53,38 @@
     width: 100%;
 }
 
-.title-h2_left {
+.title_h2_left {
     text-align: center;
 }
 
-.title-h2_left span {
+.title_h2_left span {
     display: block;
 }
 
-.broker__right {
+.broker_right {
     margin-top: 32px;
     gap: 20px 15px;
 }
 
-.broker__right-item {
+.broker_right_item {
     border-radius: 20px;
     box-shadow: 6px 4px 12px 0px rgba(0, 0, 0, 0.05);
     height: 134px;
 }
 
-.broker__right-text {
+.broker_right_text {
     font-size: 14px;
     font-weight: 500;
     line-height: 140%;
     margin-top: 7.83px;
 }
 
-.broker__right-item {
+.broker_right_item {
     width: calc(50% - (15 / 2));
     padding: 0 8px 0 18px;
 }
 
-.broker__right-ico {
+.broker_right_ico {
     width: 39px;
     height: 39px;
     margin-top: -5px;
@@ -93,7 +93,7 @@
     justify-content: center;
 }
 
-.broker__right-ico i {
+.broker_right_ico i {
     top: 2px;
     left: 2px;
     font-size: 24px;
