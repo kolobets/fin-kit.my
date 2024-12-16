@@ -324,7 +324,7 @@ body {
     width: calc(50% - 10px);
 }
 
-.broker__desctiption {
+.broker__description {
     font-size: 14px;
     font-weight: 500;
     line-height: 140%;
